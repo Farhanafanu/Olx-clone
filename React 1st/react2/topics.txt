@@ -1,0 +1,15 @@
+DOM
+vDom
+single page and multi
+csr,ssr
+reusabilty
+jsx,html
+functional components
+dynamic rendering or probs
+events
+use state
+pendings
+life cycle methods\
+c.	useRef
+d.	useHistory vs useNavigate
+a.	Class (basic- lifecycle methods)
